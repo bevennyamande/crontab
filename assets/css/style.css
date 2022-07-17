@@ -458,13 +458,13 @@ section {
   text-align: center;
 }
 .clients img {
-  max-width: 45%;
-  transition: all 0.4s ease-in-out;
-  display: inline-block;
-  padding: 15px 0;
-  filter: grayscale(100);
+    max-width: 45%;
+    transition: all 0.4s ease-in-out;
+    display: inline-block;
+    padding: 15px 0;
+    /* filter: grayscale(100); */
     width: 114px;
-    height: 58px;
+    height: 62px;
 }
 .clients img:hover {
   filter: none;
